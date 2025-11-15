@@ -63,6 +63,7 @@ Epoch 3: ~1.26
 Even with only a few epochs, the model successfully learned patterns characteristic of Shakespeare’s writing—line structure, punctuation style, and common words.
 
 ===== Generated Text (Temp = 0.5) =====
+
 Shall I compare thee:
 I am ancient time and state and follow'd.
 
@@ -79,6 +80,7 @@ AUTOLYCUS:
 I 
 
 ===== Generated Text (Temp = 1.0) =====
+
 Shall I compare thee:
 And tell you, siely and his worn of fear
 A bell, he doth raised aallianton
@@ -87,6 +89,7 @@ And in these child, made a little shall
 hear it, and in my bristal men I must now,
 
 ===== Generated Text (Temp = 1.5) =====
+
 Shall I compare thee, in why,--
 Hare, nories homing? why cut him learncelly
 Think thee to his kitw? a' callar
