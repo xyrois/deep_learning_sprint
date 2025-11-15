@@ -1,4 +1,5 @@
 LSTM Text Generation
+
 📌 Project Description
 
 This project implements a character-level text generation model trained on the complete Shakespeare corpus. The goal is to learn how sequence models process sequential data and generate text in a specific writing style.
